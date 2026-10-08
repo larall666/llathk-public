@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Privacy Policy · Natural Phonics Cat</title>
+    <meta
+      name="description"
+      content="Privacy Policy for the Natural Phonics Cat app and website."
+    />
+    <style>
+      :root {
+        color-scheme: light;
+      }
+      body {
+        font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+        line-height: 1.6;
+        color: #111827;
+        margin: 0;
+        padding: 1.5rem;
+        background: #fafafa;
+      }
+      article {
+        max-width: 42rem;
+        margin: 0 auto 4rem;
+        background: #fff;
+        padding: 2rem 1.5rem;
+        border-radius: 0.5rem;
+        box-shadow: 0 1px 3px rgb(0 0 0 / 0.08);
+      }
+      h1 {
+        font-size: 1.75rem;
+        margin: 0.5rem 0;
+      }
+      h2 {
+        font-size: 1.15rem;
+        margin: 2rem 0 0.75rem;
+      }
+      p,
+      li {
+        margin: 0.5rem 0;
+      }
+      ul {
+        padding-left: 1.5rem;
+      }
+      a {
+        color: #4f46e5;
+      }
+      code {
+        font-size: 0.9em;
+        background: #f3f4f6;
+        padding: 0.1em 0.35em;
+        border-radius: 0.25rem;
+      }
+      hr {
+        border: none;
+        border-top: 1px dotted #9ca3af;
+        margin: 2.5rem 0;
+      }
+      .meta {
+        font-size: 0.875rem;
+        color: #6b7280;
+      }
+    </style>
+  </head>
+  <body>
+    <article>
+      <h1>Privacy Policy</h1>
+      <p class="meta">Natural Phonics Cat · Effective 8 October 2026</p>
+
+      <h2>1. Introduction</h2>
+      <p>
+        This Privacy Policy explains how Natural Phonics Cat (&quot;we&quot;,
+        &quot;us&quot;, &quot;our&quot;) handles information when you use our
+        Android application and any related website or progressive web app
+        (together, the &quot;Service&quot;). We design the Service for phonics
+        learning. We do not require you to create an account.
+      </p>
+
+      <h2>2. Contact</h2>
+      <p>
+        Questions about this policy or your data:
+        <a href="mailto:llathk001@gmail.com">llathk001@gmail.com</a>
+      </p>
+
+      <h2>3. Summary</h2>
+      <ul>
+        <li>
+          <strong>Android app (Google Play):</strong> Learning progress is stored
+          on your device only. We do not run third-party analytics inside the
+          native app. Audio and images are bundled in the app or played locally.
+        </li>
+        <li>
+          <strong>Website / PWA (if you use our site in a browser):</strong> In
+          production we may use Vercel Analytics and Speed Insights (usage and
+          performance metrics). A service worker may cache content for offline
+          use.
+        </li>
+        <li><strong>We do not sell</strong> your personal information.</li>
+      </ul>
+
+      <h2>4. Information stored on your device</h2>
+      <p>
+        The Service saves practice data in your browser or app WebView storage
+        (for example <code>localStorage</code>), including:
+      </p>
+      <ul>
+        <li>
+          Spaced-repetition progress for phonics items (non-personal identifiers
+          such as grapheme and phoneme keys)
+        </li>
+        <li>A list of items you missed for review in the game</li>
+        <li>
+          Game setup choices during your session (for example selected practice
+          scope)
+        </li>
+      </ul>
+      <p>
+        This data stays on your device unless you clear app or browser storage,
+        uninstall the app, or reset your device. We do not receive this data on
+        our servers because we do not operate a login or cloud sync for progress
+        at this time.
+      </p>
+
+      <h2>5. Information we do not collect</h2>
+      <p>Through the app as currently built, we do not ask for or collect:</p>
+      <ul>
+        <li>Name, email, or phone number inside the app</li>
+        <li>Precise location</li>
+        <li>Contacts, photos, or files on your device</li>
+        <li>
+          Advertising identifiers for in-app ads (the app does not show
+          third-party ads)
+        </li>
+      </ul>
+
+      <h2>6. Device features and third parties</h2>
+      <p>
+        <strong>Text-to-speech:</strong> Example words (for example on posters or
+        picture mode) may be read aloud using your device&apos;s system
+        text-to-speech engine. The word text is processed on your device by the
+        operating system or platform provider (such as Google on Android), not
+        sent to us.
+      </p>
+      <p>
+        <strong>Audio:</strong> Phoneme sounds may play from files included in the
+        app or site.
+      </p>
+      <p>
+        <strong>Internet:</strong> The Android app is designed to work largely
+        offline after install. A network permission may be used for future
+        features (such as subscription verification). When you use the public
+        website, standard web hosting and CDN providers process requests to
+        deliver pages and assets.
+      </p>
+      <p>
+        <strong>Google Play:</strong> If you purchase a subscription or in-app
+        product in the future, payment and purchase records are handled by Google
+        Play under Google&apos;s privacy policy. We may receive subscription
+        status through Google Play or a billing partner (such as RevenueCat) to
+        unlock features, not your full payment card details.
+      </p>
+      <p>
+        <strong>Vercel (website only):</strong> If you visit our production
+        website, Vercel may process analytics and performance data as described in
+        <a
+          href="https://vercel.com/legal/privacy-policy"
+          rel="noopener noreferrer"
+          target="_blank"
+          >Vercel&apos;s Privacy Policy</a
+        >. This does not apply inside the native Android app build.
+      </p>
+
+      <h2>7. Children&apos;s privacy</h2>
+      <p>
+        The Service is intended for learners, including children, under the
+        supervision of a parent, guardian, or educator. We do not knowingly
+        collect personal information from children online. Practice data remains
+        on the device. If you believe a child has provided personal information
+        to us by email, contact us and we will delete it.
+      </p>
+
+      <h2>8. Retention and security</h2>
+      <p>
+        On-device data remains until you remove it or uninstall the app. We use
+        reasonable measures to protect any information we handle, but no method
+        of transmission or storage is completely secure.
+      </p>
+
+      <h2>9. Your choices</h2>
+      <ul>
+        <li>Clear site data or app storage to reset progress</li>
+        <li>Uninstall the Android app</li>
+        <li>
+          Disable or limit analytics in your browser when using the website
+          (browser settings or extensions)
+        </li>
+        <li>
+          Contact us to ask questions or request deletion of information you sent
+          us by email
+        </li>
+      </ul>
+
+      <h2>10. Changes</h2>
+      <p>
+        We may update this Privacy Policy. We will post the new version on this
+        page and update the effective date. Continued use of the Service after
+        changes means you accept the updated policy.
+      </p>
+
+      <hr />
+
+      <h2>私隱政策（繁體中文摘要）</h2>
+      <p class="meta">生效日期：8 October 2026</p>
+      <p>
+        <strong>Natural Phonics Cat</strong>
+        為自然拼讀學習用途。目前<strong>無需註冊帳號</strong>。
+      </p>
+      <ul>
+        <li>
+          <strong>Android 應用程式：</strong>
+          練習進度與錯題記錄保存在您裝置的本機儲存空間；原生 app
+          內<strong>不使用</strong> Vercel 分析。音檔與圖片多為 app 內建或本機播放。
+        </li>
+        <li>
+          <strong>網站／PWA：</strong>
+          正式環境可能使用 Vercel Analytics／Speed Insights 及 Service Worker
+          快取。
+        </li>
+        <li>
+          <strong>系統朗讀（TTS）：</strong>
+          例字由裝置系統語音引擎處理，我們不會收到語音內容。
+        </li>
+        <li>
+          <strong>訂閱（如適用）：</strong>
+          付款由 Google Play 處理；我們可能透過 Google 或帳務合作方得知是否已訂閱，以解鎖功能。
+        </li>
+        <li>
+          <strong>兒童：</strong>
+          我們不在線上刻意收集兒童個人資料；學習資料留在裝置上。如有疑問請電郵
+          <a href="mailto:llathk001@gmail.com">llathk001@gmail.com</a>。
+        </li>
+        <li>我們<strong>不出售</strong>您的個人資料。</li>
+      </ul>
+      <p>完整英文條款以上方 English 章節為準。</p>
+    </article>
+  </body>
+</html>
